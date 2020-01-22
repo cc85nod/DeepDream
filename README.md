@@ -1,5 +1,5 @@
 # DeepDream
-> deep dream 透過增強某些在 DNN layer 的 weight，讓人類知道究竟機器學習到了什麼
+> The Deep dream amplifies specified layer of DNN, make people understand what the machine learns
 
 ## Instruction
 According to [Inceptionism: Going Deeper into Neural Networks](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
